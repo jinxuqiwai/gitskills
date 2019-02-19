@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quick AND simple could view branch.
+Modify  a new branch is quick AND simple could view branch.
